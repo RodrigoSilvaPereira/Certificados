@@ -30,7 +30,7 @@ Este repositório serve como um portfólio público de aprendizado contínuo e d
 
 Caso queira saber mais sobre minha trajetória ou projetos:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-pereira-b39914210/)]
+- LinkedIn: [Acesse meu LinkedIn](https://www.linkedin.com/in/rodrigo-pereira-b39914210/)
 - Portfólio: [Link do seu portfólio, se tiver]
 - E-mail: [2005rodrigosilva@gmail.com]
 
