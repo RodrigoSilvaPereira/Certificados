@@ -8,10 +8,7 @@ Aqui você encontrará todos os cursos, formações e capacitações que realize
 Os certificados estão organizados por pastas conforme a área ou tema principal abordado. Exemplos:
 
 - **📊 Dados e BI** — Cursos relacionados a análise de dados, visualização, SQL, Power BI, etc.
-- **☁️ Cloud Computing** — Certificações e formações em serviços de nuvem como AWS, Azure ou GCP.
-- **🖥️ Programação** — Cursos de linguagens como Python, JavaScript, etc.
-- **🛠️ Ferramentas e Softwares** — Talend, Excel Avançado, Git, etc.
-- **🧠 Soft Skills** — Comunicação, trabalho em equipe, liderança, etc.
+- **☁️ Cloud Computing e AI** — Certificações e formações em serviços de nuvem como AWS, Azure ou GCP.
 
 ## 🧾 Sobre os Certificados
 
@@ -30,7 +27,7 @@ Este repositório serve como um portfólio público de aprendizado contínuo e d
 
 Caso queira saber mais sobre minha trajetória ou projetos:
 
-- LinkedIn: [Acesse meu LinkedIn](https://www.linkedin.com/in/rodrigo-pereira-b39914210/)
+- LinkedIn: [Acesse meu LinkedIn](https://www.linkedin.com/in/rohsilva/)
 - E-mail: [2005rodrigosilva@gmail.com]
 
 ---
